@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="currency_converter_title" translatable="false">Конвертер валют</string>
+    <string name="amount_label">Количество</string>
+    <string name="from_label">Из</string>
+    <string name="to_label">В</string>
+    <string name="convert_label">Коевертировать</string>
+</resources>
